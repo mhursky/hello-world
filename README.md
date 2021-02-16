@@ -1,2 +1,4 @@
 # first-repository
-my first repository on github
+My first repository on github.
+
+I love :guitar:, :volleyball:.
